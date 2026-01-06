@@ -19,10 +19,14 @@ An interactive NBA analytics dashboard built using Power BI, focused on uncoveri
 
 ## Dashboard Preview
 ### Overview
-![Overview](page 1.png)
+![Overview](NBA-Analytics-PowerBI-Dashboard
+/page 1.png
+)
 
 ### Insights
-![Insights](page 2.png)
+![Insights](NBA-Analytics-PowerBI-Dashboard
+/page 2.png
+)
 
 ## Files
 - `NBA_Dashboard.pbix` – Power BI dashboard file
